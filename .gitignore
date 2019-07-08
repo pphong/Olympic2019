@@ -240,7 +240,3 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
-
-#custom other
-*.vcxproj
-*.filters
